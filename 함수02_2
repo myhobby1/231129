@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void)
+{
+    char ch1='A';
+    char ch2=65;
+    
+  printf("변수da의값:%.1lf\n",da);
+  printf("변수ch의값:%c\n",ch);
+
+  return 0;
+}
