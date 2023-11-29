@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(void)
+{
+   short sh=32767;
+   int in=2147483647;
+   long in=2147483647;
+   long long lln=123451234512345;
+
+ printf("short형 변수출력:%d\n,sh);
+ printf("int형 변수출력:%d\n,in);
+ print("long형 변수출력:%ld\n",ln);
+ print("long long형 변수출력:%lld\n",lln);
+
+return 0;
+}
